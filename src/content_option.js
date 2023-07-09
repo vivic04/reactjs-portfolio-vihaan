@@ -87,11 +87,11 @@ const dataportfolio = [{
         description: "Using Flutter to create mobile apps (website contribution).",
         link: "https://uoftflutterdevs.org/",
     },
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-13321-4_22/MediaObjects/456783_1_En_22_Fig1_HTML.png",
+        description: "Smart Maze Generator and solver - using Pygame and Python",
+        link: "https://github.com/vivic04/MazeSolver",
+    },
     // {
     //     img: "https://picsum.photos/400/300/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
