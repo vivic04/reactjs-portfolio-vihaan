@@ -28,7 +28,6 @@ export const Resume = () => {
             
         </Row>
         <Row>
-
         </Row>
       </Container>
     </HelmetProvider>
