@@ -23,7 +23,7 @@ export const Resume = () => {
         </Row>
         <Row className="ResumeEmbed">
             <body>
-                <iframe id = "MyPdf" src = "Resume 2023.pdf" title="Resume Embed"  height={750} width={800}> </iframe>
+                <iframe id = "MyPdf" src = "Resume new.pdf" title="Resume Embed"  height={750} width={800}> </iframe>
             </body>
             
         </Row>

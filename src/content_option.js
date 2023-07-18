@@ -19,7 +19,14 @@ const dataabout = {
     title: "My goals and Aspirations ",
     aboutme: "My deep-rooted interest in computer science has led me to continuously explore various areas within the field. Whether it's diving into complex algorithms, tackling challenging programming problems, or researching emerging technologies, I am always eager to expand my knowledge and skill set. Driven by my passion for computer science, I am eager to embark on a career path that allows me to make a positive impact through technology. I am excited to contribute my knowledge, skills, and enthusiasm to projects that push boundaries, innovate, and shape the future of the digital world.",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
+        jobtitle: "FrontEnd Development Engineer",
+        where: "Rotman Commerce Fintech Association",
+        date: "2023",
+        experience: "Frontend Development skills used Git, Reactjs, HTML, CSS, JS to create a mock stock trading website for students enroled in Rotman Commerce in Uoft to stimulate real time stock brokerage"
+    },
+    {
         jobtitle: "Software Engineer Intern",
         where: "R systems",
         date: "2023",
@@ -32,12 +39,11 @@ const worktimeline = [{
         date: "2022",
         experience: "Frontend Development Intern, designing and developing a project using HTML, CSS, React Native, and JavaScript, resulting in a fully working and visually appealing application."
     },
-    
 ];
 
 const skills = [{
         name: "Python",
-        value: 85,
+        value: 80,
     },
     {
         name: "Djano",
@@ -58,6 +64,18 @@ const skills = [{
     {
         name: "HTML & CSS",
         value: 80,
+    },
+    {
+        name: "Node.js",
+        value: 70,
+    },
+    {
+        name: "SQL",
+        value: 65,
+    },
+    {
+        name: "Flutter",
+        value: 65,
     },
 ];
 
@@ -92,11 +110,11 @@ const dataportfolio = [{
         description: "Smart Maze Generator and solver - using Pygame and Python",
         link: "https://github.com/vivic04/MazeSolver",
     },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: "https://rcfintech.ca/wp-content/uploads/2021/07/RC-Open-Promo-Material-1-min.png",
+        description: "RCFTA sandox project (a website used to stimulate real time stock trading",
+        link: "https://sandbox.rcfta.ca/",
+    },
     // {
     //     img: "https://picsum.photos/400/700/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
